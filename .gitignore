@@ -1,0 +1,5 @@
+# Ignore project files
+*.pro*
+
+# The main file
+main.c
